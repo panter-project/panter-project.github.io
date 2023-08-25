@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://panter-project.github.io
+title: PANTER
+email: kammer@htw-dresden.de
+author: Dietrich Kammer
+description: > # "Write an awesome description for your new site here. 
+  Project website
+copyright: 'Copyright &copy; 2023. All Rights Reserved.'
+credits: 'A joint project.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+#social:
+#  - title: twitter
+#    url: https://twitter.com/SBootstrap
+#  - title: github
+#    url: https://github.com/IronSummitMedia/startbootstrap
+#  - title: linkedin
+#    url: 
