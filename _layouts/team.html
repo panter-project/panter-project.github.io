@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+
+        {% assign team_slub = site.team | where: 'category', 'SLUB' %}
+        {% assign team_tib = site.team | where: 'category', 'TIB' %}
+        {% assign team_htwd = site.team | where: 'category', 'HTWD' %}
+
+        <div class="content-section-a mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10">
+                        <h3>SLUB Dresden</h3>
+                        <ul>
+                        {% for person in team_slub %}
+                            <li>
+                                {% include person.html %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="content-section-b">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10">
+                        <h3>TIB</h3>
+                        <ul>
+                        {% for person in team_tib %}
+                            <li>
+                                {% include person.html %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="content-section-a">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10">
+                        <h3>HTW Dresden</h3>
+                        <ul>
+                        {% for person in team_htwd %}
+                            <li>
+                                {% include person.html %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>

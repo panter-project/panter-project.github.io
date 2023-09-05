@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://panter-project.github.io
-title: PANTER
+title: Publishing Analytics Tracker
 email: kammer@htw-dresden.de
 author: Dietrich Kammer
 description: > # "Write an awesome description for your new site here. 
-  Project website
+  Vergleichsportal für Finanzierungsmodelle, Preise und Preisentwicklungen auf dem Open-Access-Zeitschriftenmarkt
 copyright: 'Copyright &copy; 2023. All Rights Reserved.'
 credits: 'A joint project.'
 
@@ -18,6 +18,14 @@ credits: 'A joint project.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  partners:
+    output: false
+  team:
+    output: false
+  output:
+    output: false
 
 # ----------------------- #
 #   3rd Party Settings    #

@@ -1,8 +1,0 @@
----
-layout: default
-img: dog.png
-category: Services
-title: TIB
-description: |
----
-  Description missing
