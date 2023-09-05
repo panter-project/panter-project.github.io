@@ -127,10 +127,11 @@ a.menu-link--selected {
     }
 
     .intro-message > h1 {
-        font-size: 3em;
+        font-size: 1em;
     }
 
     .intro-message > h3 {
+        font-size: 1em;
         padding-left: 0;
         padding-right: 0;
     }
