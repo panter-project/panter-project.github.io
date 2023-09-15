@@ -19,6 +19,9 @@ credits: 'A joint project.'
 markdown: kramdown
 permalink: pretty
 
+kramdown:  
+  parse_block_html: true
+
 collections:
   partners:
     output: false
