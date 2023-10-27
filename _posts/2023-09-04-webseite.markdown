@@ -1,8 +1,0 @@
----
-layout: post
-category: news
-title: Projektwebseite veröffentlicht
-description: |
-    Neue Webseite veröffentlicht.
----
-Das PANTER-Projekt hat nun eine eigene Webseite, um über Neuigkeiten, Veröffentlichungen usw. zu berichten.

@@ -1,0 +1,12 @@
+---
+layout: post
+category: news
+title: Projektwebseite veröffentlicht
+description: |
+    Das Projekt PANTER bekommt einen Webauftritt.
+---
+Jetzt auch im Web: Seit dem 1. September wird das Projekt PANTER (**P**ublishing **A**nalytics **T**rack**er**) vom Bundesministerium für Bildung und Forschung für einen Zeitraum von zwei Jahren gefördert, das über Preispolitik von Verlagen auf dem Open-Access-Publikationsmarkt aufklären will. Auf dieser Website können Sie sich umfassend über das Projekt und seinen Output informieren.
+
+Im Zuge der Open-Access-Transformation gewinnen publikationsbezogene Finanzierungsmodelle, in denen Forschende sogenannte Artikelbearbeitungsgebühren oder article processing charges (APC) bezahlen, stark an Bedeutung. In vielen Fällen beeinflusst die Höhe dieser Gebühren die Wahl der Zeitschrift, in denen die Forschungsergebnisse publiziert werden können. Das Projekt [OpenAPC](https://openapc.net/) stellt seit vielen Jahren einen Datensatz bereit, der die Kosten einzelner Open-Access-Publikationen ausweist. Ein vergleichbarer Datensatz zu den von den Verlagen und sonstigen Anbietern aufgerufenen Preisen und deren Entwicklung fehlte ebenso wie eine fundierte Übersicht über medienbezogene Finanzierungsmodelle auf dem Open-Access-Zeitschriftenmarkt.
+
+Diese relevante Informationslücke will PANTER schließen: Ein Team aus Mitarbeitenden der SLUB Dresden, der HTW Dresden und der TIB erarbeitet im Rahmen dieses Projektes einen Preismonitor, der alle Akteure des Open-Access-Publikationswesens in die Lage versetzen soll, Preise und Preisentwicklungen für Publikationsdienstleistungen einsehen und vergleichen zu können. Sowohl über die Kooperation mit Verlagen zur Bereitstellung von Preisinformationen als auch über die Erhebung von Daten mittels Webscraping soll ein Werkzeug entstehen, das über die aktuelle wie historische Preispolitik von Verlagen beim Erheben von Article Publishing Charges (APC) ebenso informiert wie über medienbezogene Finanzierungsmodelle. Diese Daten werden über ein öffentlich verfügbares Vergleichsportal abrufbar sein, sodass Nutzende sich schnell einen zuverlässigen Überblick verschaffen und Entscheidungen treffen können. Eine Schnittstelle erlaubt eine Nachnutzung in anderen Open-Access-Infrastrukturprojekten. So wird PANTER einen wichtigen Baustein zu mehr Transparenz auf dem Publikationsmarkt leisten und und darüber zu einer nachhaltigen, partizipativen und innovationsfreudigen Open-Access-Transformation beitragen.
