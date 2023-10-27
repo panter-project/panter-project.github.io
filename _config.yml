@@ -27,7 +27,7 @@ collections:
     output: false
   team:
     output: false
-  output:
+  resources:
     output: false
 
 # ----------------------- #

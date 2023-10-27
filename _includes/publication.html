@@ -1,0 +1,21 @@
+<span class="me-1 small">
+    {{ pub.AU }} 
+    ({{ pub.PY }}). 
+    {% if pub.T1 and pub.T1 != "" %}
+        {{ pub.T1 }}. 
+    {% else %}
+        {{ pub.TI }}. 
+    {% endif %}
+    <i>
+        {% if pub.JO and pub.JO != "" %}
+            {{ pub.JO }},
+        {% else %}
+            {{ pub.T2 }},
+        {% endif %}
+    </i>
+    {% if pub.VL and pub.VL != "" %} 
+        <b>{{ pub.VL }}</b>{% if pub.IS and pub.IS != "" %}({{ pub.IS }}){% endif %},
+        {{ pub.SP }}{% if pub.EP and pub.EP != "" %}-{{ pub.EP}}{% endif %}.
+    {% endif %}
+</span>
+<span class="me-1 small"><a href="{{ pub.DO }}">{{ pub.DO }}</a></span>

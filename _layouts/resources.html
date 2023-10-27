@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+
+	<body>
+		{% include header.html %}
+
+        {% assign publications = site.resources | where: 'category', 'publication' | sort: "AU"  %}
+
+        <div class="content-section-a mt-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-10">
+                        <h3>Veröffentlichungen mit Projektbezug</h3>
+                        <ul>
+                        {% for pub in publications %}
+                            <li>
+                                {% include publication.html %}
+                            </li>
+                        {% endfor %}
+                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+		{% include footer.html %}
+		{% include js.html %}
+	</body>
+</html>
