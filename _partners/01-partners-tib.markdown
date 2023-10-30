@@ -1,6 +1,6 @@
 ---
 layout: default
-img: csm_jb-online-news_d420953793.jpeg
+img: TIB_Aussenansicht_RGB.jpg
 category: Partners
 title: TIB
 link: https://tib.eu/
