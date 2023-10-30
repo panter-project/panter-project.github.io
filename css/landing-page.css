@@ -144,6 +144,10 @@ a.menu-link--selected {
         max-width: 250px;
     }
 
+    .navbar-brand {
+        width: 60%;
+    }
+
     .footer-logo {
         max-height: 80px;
     }
