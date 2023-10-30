@@ -10,12 +10,8 @@ html {
     height: 100%;
 }
 
-body {
-    font-size: 21px;
-}
-
 .small {
-    font-size: 16px;
+    font-size: 90%;
 }
 
 body,
@@ -32,6 +28,10 @@ h3,
 h3 > a {
     font-family: "Poppins", "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+
+h3 {
+    font-size: 140%;
 }
 
 a,
@@ -55,7 +55,7 @@ a.menu-link:active {
     color: #000;
     text-decoration: none;
     font-weight: 500;
-    font-size: 24px;
+    font-size: 140%;
     box-shadow: none;
 }
 
@@ -78,8 +78,8 @@ a.menu-link--selected {
 }
 
 .lead {
-    font-size: 21px;
     font-weight: 300;
+    font-size: 100%;
 }
 
 .intro-header {
@@ -125,7 +125,29 @@ a.menu-link--selected {
     padding-right: 25%;
 }
 
+.logo {
+    height: 40px;
+    width: 100%;
+}
+
 @media(max-width:767px) {
+    body {
+        font-size: 12px;
+    }
+
+    .menu-link {
+        display: block;
+    }
+
+    .pt-sm-5 {
+        padding-top: 3rem!important;
+        max-width: 250px;
+    }
+
+    .footer-logo {
+        max-height: 80px;
+    }
+
     .intro-message {
         padding-bottom: 15%;
     }
