@@ -127,7 +127,6 @@ a.menu-link--selected {
 
 .logo {
     height: 40px;
-    width: 100%;
 }
 
 @media(max-width:767px) {
@@ -137,6 +136,10 @@ a.menu-link--selected {
 
     .menu-link {
         display: block;
+    }
+
+    .logo {
+        width: 100%;
     }
 
     .bmbf-logo {
