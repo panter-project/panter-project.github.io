@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Open Access Article Processing Charges (OA APC) Longitudinal Study 2015 Preliminary Dataset
-AU: Morrison, Heather; Mondésir, Guinsly; Salhab, Jihane; Villamizar, César; Calvé-Genest, Alexis; Desautels, Lisa
+AU: Morrison, Heather, Mondésir, Guinsly, Salhab, Jihane, Villamizar, César, Calvé-Genest, Alexis, and Desautels, Lisa
 T2: Data
 DA: 2016/04/14/
 PY: 2016
