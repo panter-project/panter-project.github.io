@@ -126,7 +126,7 @@ a.menu-link--selected {
 }
 
 .logo {
-    height: 40px;
+    width: 140px;
 }
 
 @media(max-width:767px) {
@@ -139,7 +139,7 @@ a.menu-link--selected {
     }
 
     .logo {
-        width: 100%;
+        height: 100%;
     }
 
     .bmbf-logo {
