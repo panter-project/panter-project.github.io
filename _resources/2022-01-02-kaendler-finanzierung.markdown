@@ -2,15 +2,15 @@
 category: publication
 TY: CHAP
 T1: Open-Access-Finanzierung
-TI: Offene Zusammenhänge&colon; Open Access in der Berufsbildungsforschung
-AU: Ertl, Hubert, and Rödel, Bodo
-SP: 301
-EP: 317
 A1: Kändler, Ulrike
 A2: Wohlgemuth, Michael
 AB: [no abstract available]
+TI: Offene Zusammenhänge&colon; Open Access in der Berufsbildungsforschung
+AU: Ertl, Hubert, and Rödel, Bodo
 DA: 2022///
 PY: 2022
+SP: 301
+EP: 317
 CY: Bonn
 PB: Bundesinstitut für Berufsbildung (BIBB)
 DO: 10.34657/9784
