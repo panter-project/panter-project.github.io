@@ -2,9 +2,7 @@
 category: publication
 TY: JOUR
 TI: Article processing charge may be a barrier to publishing
-AU: Jain, Vijay Kumar
-AU: Iyengar, Karthikeyan. P.
-AU: Vaishya, Raju
+AU: Jain, Vijay Kumar, Iyengar, Karthikeyan. P., and Vaishya, Raju
 T2: Journal of Clinical Orthopaedics and Trauma
 DA: 2021/03//
 PY: 2021

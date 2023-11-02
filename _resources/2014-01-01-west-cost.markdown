@@ -1,8 +1,8 @@
 ---
 category: publication
 TY: JOUR
-TI: COST EFFECTIVENESS OF OPEN ACCESS PUBLICATIONS
-AU: West, Jevin D.; Bergstrom, Theodore; Bergstrom, Carl T.
+TI: Cost Effectiveness Of Open Access Publications
+AU: West, Jevin D., Bergstrom, Theodore, and Bergstrom, Carl T.
 T2: Economic Inquiry
 AB: |
     Open access publishing has been proposed as one possible solution to the serials crisis—the rapidly growing subscription prices in scholarly journal publishing. However, open access publishing can present economic pitfalls as well, such as excessive article processing charges. We discuss the decision that an author faces when choosing to submit to an open access journal. We develop an interactive tool to help authors compare among alternative open access venues and thereby get the most for their article processing charges.

@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Anatomy of open access publishing&colon; a study of longitudinal development and internal structure
-AU: Laakso, Mikael; Björk, Bo-Christer
+AU: Laakso, Mikael, and Björk, Bo-Christer
 T2: BMC Medicine
 DA: 2012/12//
 PY: 2012

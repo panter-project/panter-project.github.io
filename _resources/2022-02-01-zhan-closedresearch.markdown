@@ -2,10 +2,7 @@
 category: publication
 TY: JOUR
 TI: Should open access lead to closed research? The trends towards paying to perform research
-AU: Zhang, Lin
-AU: Wei, Yahui
-AU: Huang, Ying
-AU: Sivertsen, Gunnar
+AU: Zhang, Lin, Wei, Yahui, Huang, Yin, and Sivertsen, Gunnar
 T2: Scientometrics
 AB: |
     Open Access (OA) emerged as an important transition in scholarly publishing worldwide during the past two decades. So far, this transition is increasingly based on article processing charges (APC), which create a new paywall on the researchers’ side. Publishing is part of the research process and thereby necessary to perform research. This study analyses the global trends towards paying to perform research by combing observed trends in publishing from 2015 to 2020 with an APC price list. APC expenses have sharply increased among six countries with different OA policies: the USA, China, the UK, France, the Netherlands, and Norway. The estimated global revenues from APC among major publishers now exceed 2 billion US dollars annually. Mergers and takeovers show that the industry is moving towards APC-based OA as the more profitable business model. Research publishing will be closed to those who cannot make an institution or project money payment. Our results lead to a discussion of whether APC is the best way to promote OA.

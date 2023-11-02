@@ -1,12 +1,16 @@
 ---
 category: publication
-TY: JOUR
+TY: CHAP
 TI: Open-Access-Finanzierung
-AU: Kändler, Ulrike
-AU: Wohlgemuth, Michael
+A2: Ertl, Hubert, and Rödel, Bodo
 AB: [no abstract available]
-DA: 2022///
+T2: Offene Zusammenhänge&colon; Open Access in der Berufsbildungsforschung
+AU: Kändler, Ulrike, and Wohlgemuth, Michael
 PY: 2022
+SP: 301
+EP: 317
+CY: Bonn
+PB: Bundesinstitut für Berufsbildung (BIBB)
 DO: 10.34657/9784
 DP: DOI.org (Datacite)
 LA: de

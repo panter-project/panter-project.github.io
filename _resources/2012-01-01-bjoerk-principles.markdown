@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Pricing principles used by scholarly open access publishers
-AU: Björk, Bo-Christer; Solomon, David
+AU: Björk, Bo-Christer, and Solomon, David
 T2: Learned Publishing
 DA: 2012/04//
 PY: 2012

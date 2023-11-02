@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: An Empirical Analysis of the Amount of Publication Fees
-AU: Hagenhoff, Svenja; Blumenstiel, Matthias; Ortelbach, Björn
+AU: Hagenhoff, Svenja, Blumenstiel, Matthias, and Ortelbach, Björn
 T2: Serials Review
 DA: 2008/12//
 PY: 2008
