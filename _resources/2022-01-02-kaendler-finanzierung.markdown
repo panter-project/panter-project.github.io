@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Open-Access-Finanzierung
-AU: Kändler, Ulrike, Wohlgemuth, Michael
+AU: Kändler, Ulrike, and Wohlgemuth, Michael
 AB: [no abstract available]
 DA: 2022///
 PY: 2022
