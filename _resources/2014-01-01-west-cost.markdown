@@ -1,7 +1,7 @@
 ---
 category: publication
 TY: JOUR
-TI: COST EFFECTIVENESS OF OPEN ACCESS PUBLICATIONS
+TI: Cost Effectiveness Of Open Access Publications
 AU: West, Jevin D.; Bergstrom, Theodore; Bergstrom, Carl T.
 T2: Economic Inquiry
 AB: |
