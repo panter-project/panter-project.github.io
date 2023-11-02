@@ -1,7 +1,7 @@
 ---
 category: publication
 TY: JOUR
-TI: The pricing of open access journals: Diverse niches and sources of value in academic publishing
+TI: The pricing of open access journals&colon; Diverse niches and sources of value in academic publishing
 AU: Siler, Kyle, and Frenken, Koen
 T2: Quantitative Science Studies
 AB: |
