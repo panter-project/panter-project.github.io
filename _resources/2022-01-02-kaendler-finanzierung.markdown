@@ -6,7 +6,6 @@ A2: Ertl, Hubert, and Rödel, Bodo
 AB: [no abstract available]
 T2: Offene Zusammenhänge&colon; Open Access in der Berufsbildungsforschung
 AU: Kändler, Ulrike, and Wohlgemuth, Michael
-DA: 2022///
 PY: 2022
 SP: 301
 EP: 317
