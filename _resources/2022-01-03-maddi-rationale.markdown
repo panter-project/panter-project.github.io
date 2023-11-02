@@ -2,8 +2,7 @@
 category: publication
 TY: JOUR
 TI: Article processing charges, altmetrics and citation impact&colon; Is there an economic rationale?
-AU: Maddi, Abdelghani
-AU: Sapinho, David
+AU: Maddi, Abdelghani, and Sapinho, David
 T2: Scientometrics
 DA: 2022/12//
 PY: 2022
