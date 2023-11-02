@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Article processing charges in OA journals&colon; relationship between price and quality
-AU: Björk, Bo-Christer; Solomon, David
+AU: Björk, Bo-Christer, and Solomon, David
 T2: Scientometrics
 DA: 2015/05//
 PY: 2015
