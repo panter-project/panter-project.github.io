@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: OpenAPC&colon; a contribution to a transparent and reproducible monitoring of fee-based open access publishing across institutions and nations
-AU: Pieper, Dirk; Broschinski, Christoph
+AU: Pieper, Dirk, and Broschinski, Christoph
 T2: Insights the UKSG journal
 DA: 2018/10/10/
 PY: 2018
