@@ -2,7 +2,7 @@
 category: publication
 TY: JOUR
 TI: Some economic aspects of the scholarly journal system
-AU: King, Donald W.; Tenopir, Carol
+AU: King, Donald W., and Tenopir, Carol
 T2: Annual Review of Information Science and Technology
 DA: 2011///
 PY: 2011
