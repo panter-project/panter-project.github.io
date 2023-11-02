@@ -2,11 +2,7 @@
 category: publication
 TY: JOUR
 TI: The oligopoly’s shift to open access publishing&colon; How for-profit publishers benefit from gold and hybrid article processing charges
-AU: Butler, Leigh-Ann
-AU: Matthias, Lisa
-AU: Simard, Marc-André
-AU: Mongeon, Phil
-AU: Haustein, Stefanie
+AU: Butler, Leigh-Ann, Matthias, Lisa, Simard, Marc-André, Mongeon, Phil, and Haustein, Stefanie
 T2: Proceedings of the Annual Conference of CAIS / Actes du congrès annuel de l'ACSI
 AB: |
     This study estimates fees paid for gold and hybrid open access articles in journals published by the oligopoly of academic publishers, which acknowledge funding from the Canadian Tri-Agency. It employs bibliometric methods using data from Web of Science, Unpaywall, open datasets of article processing charges list prices as well as historical fees retrieved via the Internet Archive Wayback Machine for journals published by Elsevier, Springer-Nature, Wiley, Sage and Taylor & Francis to estimate article processing charges for open access articles published between 2015 and 2018 that acknowledge funding from the Canadian Federal funding agencies CIHR, NSERC, and SSHRC, as well as grants jointly administered by the Tri-Agency. During the four-year period analyzed, a total of 6,892 gold and 4,097 hybrid articles that acknowledge Tri-Agency funding were identified, for which the total list prices amount to $US 27.6 million.
