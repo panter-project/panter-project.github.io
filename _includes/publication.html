@@ -6,15 +6,24 @@
     {% else %}
         {{ pub.TI }}. 
     {% endif %}
-    <i>
-        {% if pub.JO and pub.JO != "" %}
-            {{ pub.JO }},
-        {% else %}
-            {{ pub.T2 }},
-        {% endif %}
-    </i>
+    
+    {% if pub.JO and pub.JO != "" %}
+        <i>{{ pub.JO }}</i>,
+    {% else %}
+        {% unless pub.TY == "CHAP" %}
+        <i>{{ pub.T2 }}</i>,
+        {% endunless %}
+    {% endif %}
+    
     {% if pub.VL and pub.VL != "" %} 
         <b>{{ pub.VL }}</b>{% if pub.IS and pub.IS != "" %}({{ pub.IS }}){% endif %},
+        {{ pub.SP }}{% if pub.EP and pub.EP != "" %}-{{ pub.EP}}{% endif %}.
+    {% endif %}
+    {% if pub.TY == "CHAP" %}
+        {% if pub.T2 and pub.T2 != "" %}
+            {{ pub.T2 }}.
+        {% endif %}
+        in {{ pub.A2 }} (eds.). {{ pub.CY }}: {{ pub.PB }},
         {{ pub.SP }}{% if pub.EP and pub.EP != "" %}-{{ pub.EP}}{% endif %}.
     {% endif %}
 </span>
