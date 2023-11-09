@@ -3,23 +3,28 @@ layout: page
 title: Kontakt
 permalink: /contact/
 ---
-Wenden Sie sich gerne an die Projektverantwortlichen:
+Wenden Sie sich gerne an den Projektkoordinator:
 
-## Michael Wohlgemuth (SLUB Dresden)
-
-Referent Open Access Finanzieren
+## Alexander Faschon (SLUB Dresden)
 
 Sächsische Landesbibliothek -\
 Staats- und Universitätsbibliothek Dresden\
 Abteilung Bestandesentwicklung und Metadaten\
 01054 Dresden\
+T +49 351 4677-316\
+E <alexander.faschon@slub-dresden.de>\
 
-Besucheradresse: Zellescher Weg 18 | 01069 Dresden\
+Oder an die Projektverantwortlichen:
+
+## Michael Wohlgemuth (SLUB Dresden)
+
+Referent Open Access Finanzieren
+Sächsische Landesbibliothek -\
+Staats- und Universitätsbibliothek Dresden\
+Abteilung Bestandesentwicklung und Metadaten\
+01054 Dresden\
 T +49 351 4677-326\
 E <Michael.Wohlgemuth@slub-dresden.de>\
-<https://orcid.org/0000-0002-7280-5284>
-
-<https://www.slub-dresden.de>
 
 ## Ulrike Kändler (TIB)
 
