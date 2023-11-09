@@ -33,7 +33,7 @@ Technische Informationsbibliothek\
 Referat Lizenzen\
 Welfengarten 1 B\
 30167 Hannover\
-T ++49 511 762 14568\
+T +49 511 762 14568\
 E <ulrike.kaendler@tib.eu>
 
 ### Dietrich Kammer (HTW Dresden)
