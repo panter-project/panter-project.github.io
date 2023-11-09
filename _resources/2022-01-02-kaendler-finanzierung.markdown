@@ -1,7 +1,7 @@
 ---
 category: publication
 TY: CHAP
-C1: Open-Access-Finanzierung
+C: Open-Access-Finanzierung
 A2: Ertl, Hubert, and Rödel, Bodo
 AB: [no abstract available]
 T2: Offene Zusammenhänge&colon; Open Access in der Berufsbildungsforschung
