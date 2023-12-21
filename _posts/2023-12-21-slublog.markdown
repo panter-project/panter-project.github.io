@@ -3,6 +3,6 @@ layout: post
 category: news
 title: SLUBlog berichtet über PANTER
 description: |
-  Der Blog der SLUB Dresden hat einen Beitrag zum Projekt PANTER veröffentlicht.
+  PANTER ist Thema in neuem Blogpost der SLUB.
 ---
-Die SLUB Dresden berichtet in einem [Blogpost](https://blog.slub-dresden.de/beitrag/2023/12/14/panter-projekt) über das Projekt PANTER.
+Der Blog der SLUB Dresden hat dem Projekt PANTER einen [Post](https://blog.slub-dresden.de/beitrag/2023/12/14/panter-projekt) gewidmet.
