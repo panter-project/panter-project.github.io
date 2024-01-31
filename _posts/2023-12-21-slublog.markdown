@@ -1,8 +1,0 @@
----
-layout: post
-category: news
-title: SLUBlog berichtet über PANTER
-description: |
-  PANTER ist Thema in neuem Blogpost der SLUB.
----
-Der Blog der SLUB Dresden hat dem Projekt PANTER einen [Post](https://blog.slub-dresden.de/beitrag/2023/12/14/panter-projekt) gewidmet.
