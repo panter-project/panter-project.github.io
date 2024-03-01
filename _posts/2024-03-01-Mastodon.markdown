@@ -1,8 +1,0 @@
----
-layout: post
-category: news
-title: [PANTER jetzt auf Mastodon](https://openbiblio.social/deck/@PANTER) 
-description: |
-  PANTER jetzt auf Mastodon
----
-PANTER jetzt auf Mastodon
