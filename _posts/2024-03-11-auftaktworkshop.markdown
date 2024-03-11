@@ -5,7 +5,7 @@ title: Rückblick Auftaktworkshop
 description: |
     Ein Workshop voller Entdeckungen
 ---
-Unser Auftaktworkshop fand vom 22.02. bis zum 23.02. mit allen Projektpartnern aus der [SLUB Dresden](https://www.slub-dresden.de/), der die [HTW Dresden](https://www.htw-dresden.de) und der [TIB](https://www.tib.eu/de/) in Dresden statt. Eingeladen hatte die SLUB Dresden zu einer zweitägigen Veranstaltung in ihrem Open Science Lab. Die Veranstaltung konzentrierte sich hauptsächlich auf den fachlichen Austausch und die Präsentation der Ergebnisse, die sich aus der zuvor festgelegten Aufgabenverteilung der einzelnen Projektpartner ergeben haben.
+Unser Auftaktworkshop fand vom 22.02. bis zum 23.02. mit allen Projektpartnern aus der [SLUB Dresden](https://www.slub-dresden.de/), der die [HTW Dresden](https://www.htw-dresden.de) und der [TIB](https://www.tib.eu/de/) in Dresden statt. Eingeladen hatte die [SLUB Dresden](https://www.slub-dresden.de/) zu einer zweitägigen Veranstaltung in ihrem Open Science Lab. Die Veranstaltung konzentrierte sich hauptsächlich auf den fachlichen Austausch und die Präsentation der Ergebnisse, die sich aus der zuvor festgelegten Aufgabenverteilung der einzelnen Projektpartner ergeben haben.
 
  <h3>Fokus des Workshops</h3>
 
