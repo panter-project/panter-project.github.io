@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 img: TIB_Aussenansicht_RGB.jpg
 category: news
 title: Ein Blick hinter die Kulissen
