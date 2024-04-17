@@ -1,6 +1,6 @@
 ---
 layout: post
-img: banner-bg.jpg
+img: TIB_Aussenansicht_RGB.jpg
 category: news
 title: Ein Blick hinter die Kulissen
 description: |
