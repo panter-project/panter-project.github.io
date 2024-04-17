@@ -1,6 +1,6 @@
 ---
 layout: post
-img: phones.jpg
+img: banner-bg.jpg
 category: news
 title: Ein Blick hinter die Kulissen
 description: |
