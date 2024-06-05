@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Investitionen in nicht-kommerzielle Publikationsinfrastruktur Stärkung der digitalen Souveränität im Wissenschaftssystem
+title: Investitionen in nicht-kommerzielle Publikationsinfrastruktur:Stärkung der digitalen Souveränität im Wissenschaftssystem
 description: |
    Das Projekt PANTER unterstützt die Forderung der Allianz der Wissenschaftsorganisationen ausdrücklich im Sinne einer freien und offenen Wissenschaftskultur.
 ---
