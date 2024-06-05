@@ -1,9 +1,9 @@
 ---
 layout: post
 category: news
-title: Investitionen in nicht-kommerzielle Publikationsinfrastruktur Stärkung der digitalen Souveränität im Wissenschaftssystem
-description:|
-    Das Projekt PANTER unterstützt die Forderung der Allianz der Wissenschaftsorganisationen ausdrücklich im Sinne einer freien und offenen Wissenschaftskultur.
+title: Investitionen in nicht-kommerzielle Publikationsinfrastruktur: Stärkung der digitalen Souveränität im Wissenschaftssystem
+description: |
+    Das Projekt PANTER unterstützt die Forderung der Allianz der Wissenschaftsorganisationen ausdrücklich im Sinne einer freien und offenen Wissenschaftskultur. 
 ---
 Über Investitionen in nicht-kommerzielle Publikationsinfrastrukturangebote die digitale Souveränität des Wissenschaftssystems stärken – das ist eines der zentralen Anliegen einer am 21. Mai 2024 von der Allianz der Wissenschaftsorganisationen veröffentlichten [Stellungnahme zur Studie Kartierung und Beschreibung der Open-Access-Dienste in Deutschland](https://www.allianz-der-wissenschaftsorganisationen.de/themen-stellungnahmen/stellungnahme-zur-studie-kartierung-und-beschreibung-der-open-access-dienste-in-deutschland/). Die Allianz hebt damit die große Bedeutung öffentlich getragener, nicht-kommerzieller Dienste für die Zukunft des wissenschaftlichen Publizierens hervor. Allerdings seien nicht alle Dienste verlässlich, nachhaltig und qualitativ konkurrenzfähig aufgestellt, wie die von der Deutschen Forschungsgemeinschaft in Auftrag gegebene Studie zeige. Wissenschaftliche Einrichtungen und Zuwendungsgeber fordert die Allianz daher auf, den Sektor gezielt zu unterstützen und den professionellen Betrieb der Dienste sicherzustellen. Dafür müssen neue Wege der Ko-Finanzierung von Basisangeboten und fachlichen Angeboten gefunden werden. Vor allem aber, betont die Allianz, müssen Forschungspolitik und Wissenschaftseinrichtungen die Finanzierung als strategische Investition und Teil der regulären Erwerbungs- und Informationsbeschaffungsaufgaben wahrnehmen.
 
