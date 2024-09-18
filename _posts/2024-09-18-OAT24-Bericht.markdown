@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: PANTER auf den Open-Access-Tagen 2024: Ein Rückblick
+title: PANTER auf den Open-Access-Tagen 2024 – Ein Rückblick
 description: |
    Ein Kurzbericht über PANTER auf den OAT24.
 ---
