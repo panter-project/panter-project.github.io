@@ -3,7 +3,7 @@ layout: post
 category: news
 title: PANTER auf den Open-Access-Tagen 2024 – Ein Rückblick
 description: |
-   Ein Kurzbericht über PANTER auf den OAT24.
+   Auf den OAT24 stellt PANTER den Preismonitor vor.
 ---
 Drei Tage facettenreiches Programm, viele tolle Kolleg:innen und jede Menge neue Erkenntnisse – das waren die [Open Access-Tage 2024](https://open-access-tage.de/open-access-tage-2024-koeln). Unter dem Motto „DEAL, Diamond and beyond – Open Access zwischen Souveränität und Abhängigkeit“ fand die Tagung vom 10. bis 12. September an der Technischen Hochschule Köln statt und brachte Expert:innen aus dem gesamten Open-Access-Spektrum zusammen. Von Vorträgen über Workshops bis hin zu einem Toolmarktplatz bot die Konferenz vielfältige Gelegenheiten, aktuelle Perspektiven zu vertiefen. Auch das Team von PANTER war vor Ort und stellte das Projekt in zwei Formaten vor. Sogar eine exklusive Demo der Weboberfläche hatten wir im Gepäck.
 <br><br>
