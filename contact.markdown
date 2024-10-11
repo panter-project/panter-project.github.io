@@ -5,14 +5,14 @@ permalink: /contact/
 ---
 Wenden Sie sich gerne an den Projektkoordinator:
 
-### Alexander Faschon (SLUB Dresden)
+### Matti Heide (SLUB Dresden)
 
 Sächsische Landesbibliothek -\
 Staats- und Universitätsbibliothek Dresden\
 Abteilung Bestandesentwicklung und Metadaten\
 01054 Dresden\
-T +49 351 4677-316\
-E <alexander.faschon@slub-dresden.de>
+T +49 351 4677-220\
+E <matti.heide@slub-dresden.de>
 
 Oder an die Projektverantwortlichen:
 
