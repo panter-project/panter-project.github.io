@@ -9,7 +9,7 @@ Wenden Sie sich gerne an den Projektkoordinator:
 
 Sächsische Landesbibliothek -\
 Staats- und Universitätsbibliothek Dresden\
-Abteilung Bestandesentwicklung und Metadaten\
+Abteilung Bestandesentwicklung, Ref. Lizenzmanagement\
 01054 Dresden\
 T +49 351 4677-220\
 E <matti.heide@slub-dresden.de>
