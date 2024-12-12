@@ -39,7 +39,8 @@ E <ulrike.kaendler@tib.eu>
 ### Dietrich Kammer (HTW Dresden)
 
 Professur Technische Visualistik\
-<https://www.htw-dresden.de/technische-visualistik>\
+Multimodal Immersion and Interaction Group\
+<https://www.htw-dresden.de/mimig>\
 <https://www.dkammer.org>\
 Z831A, HTW Dresden\
 Friedrich-List-Platz 1\
