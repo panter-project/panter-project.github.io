@@ -11,7 +11,6 @@ DP: DOI.org (Crossref)
 VL: 129
 J2: Ann. Rev. Info. Sci. Tech.
 LA: en
-SN: 1588-2861
 UR: https://link.springer.com/article/10.1007/s11192-024-04988-3#citeas 
 Y2: 2023/10/27/11:48:01
 ER: 
