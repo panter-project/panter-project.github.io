@@ -1,7 +1,7 @@
 ---
 category: publication
 TY: JOUR
-TI: The cost of open access: comparing public projects’ budgets and article processing charges expenditure
+TI: The cost of open access
 AU: Alonso-Álvarez, Sastrón-Toledo and Mañana-Rodriguez 
 T2: Scientometrics
 DA: 2024/02//
