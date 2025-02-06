@@ -1,7 +1,7 @@
 ---
 category: publication
 TY: JOUR
-TI: Business as Usual with Article Processing Charges in the Transition towards OA Publishing: A Case Study Based on Elsevier
+TI: Business as Usual with Article Processing Charges in the Transition towards OA Publishing A Case Study Based on Elsevier
 AU: Copiello S.
 T2: Publications 
 DA: 2020/11//
