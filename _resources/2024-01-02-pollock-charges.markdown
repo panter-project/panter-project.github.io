@@ -12,5 +12,6 @@ LA: en
 ST: Article processing charges, altmetrics and citation impact
 UR: https://www.deltathink.com/news-views-open-access-charges-continued-consolidation-and-increases-3 
 Y2: 2023/10/27/11:48:06
+L1:https://www.deltathink.com/news-views-open-access-charges-continued-consolidation-and-increases-3 
 ER: 
 ---
