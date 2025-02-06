@@ -10,8 +10,8 @@ DO: 10.1007/s11192-024-04988-3
 DP: DOI.org (Crossref)
 VL: 129
 IS: 12
-SP: 7351
-EP: 7368
+SP: 6149
+EP: 6166
 J2: Scientometrics
 LA: en
 SN: 0138-9130, 1588-2861
