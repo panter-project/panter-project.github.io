@@ -1,9 +1,9 @@
 ---
 layout: post
 category: news
-title: 3. PANTER Workshop - Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
+title: Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
 description: |
-    Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
+    3. PANTER Workshop im Open Science Lab der SLUB Dresden
 ---
 Am 30.04.2025 fand der dritte PANTER - Workshop im Open Science Lab der SLUB Dresden statt. Bereits im letzten Jahr trafen sich die Projektbeteiligten der HTW Dresden, der TIB Hannover und der SLUB Dresden des "Publishing Analytics Tracker - PANTER" zu einem zweitägigen Intensiv-Workshop, um Arbeitspakete zu koordinieren und den Projektfortschritt aktiv zu unterstützen. 
 
