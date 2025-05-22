@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: 3. PANTER Workshop
+title: 3. PANTER Workshop - Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
 description: |
     Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
 ---
