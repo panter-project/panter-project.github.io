@@ -1,0 +1,17 @@
+---
+layout: post
+category: news
+title: 3. PANTER Workshop
+description: |
+    Systemarchitektur ermöglicht nachhaltige Preistransparenz im Open Access.
+---
+Am 30.04.2025 fand der dritte PANTER - Workshop im Open Science Lab der SLUB Dresden statt. Bereits im letzten Jahr trafen sich die Projektbeteiligten der HTW Dresden, der TIB Hannover und der SLUB Dresden des "Publishing Analytics Tracker - PANTER" zu einem zweitägigen Intensiv-Workshop, um Arbeitspakete zu koordinieren und den Projektfortschritt aktiv zu unterstützen. 
+
+Im Fokus des diesjährigen Treffens standen – diesmal in kleinem Kreis zwischen HTW Dresden und SLUB Dresden – die letzten technischen Hürden beim Aufbau unseres webbasierten Preismonitors für Open-Access-Zeitschriften. Im Zentrum der fachlichen Diskussionen stand die Konzeption und Umsetzung eines neuartigen Journal Price Index. Dieser Index soll künftig Preisentwicklungen auf Basis einer repräsentativen Stichprobe der wichtigsten Fachzeitschriften transparent und nachvollziehbar abbilden.
+
+Darüber hinaus standen die noch offenen Arbeitspakete für die Beta-Version im Mittelpunkt: Prioritäten wurden festgelegt, Verantwortlichkeiten zugewiesen und erste Etappenziele für die bevorstehende Testphase definiert.
+
+Ein weiterer Schwerpunkt galt der Verstetigung der Wartungsarbeiten nach dem Release: Abläufe für regelmäßige Updates wurden entworfen, Monitoring- und Supportstrukturen verankert sowie Qualitätsprüfungen etabliert. So soll sichergestellt werden, dass der Preismonitor langfristig stabil, skalierbar und zuverlässig bleibt.
+
+Mit diesen Impulsen und einem klar strukturierten Fahrplan rücken die nächsten Meilensteine in greifbare Nähe. In den kommenden Wochen sollen die priorisierten Schritte umgesetzt werden, um die Grundlage für eine erfolgreiche Testphase der Beta-Version zu legen. Das übergeordnete Ziel bleibt dabei unverändert: Preisvergleiche für Open-Access-Journals so einfach und transparent wie möglich zu gestalten.
+
