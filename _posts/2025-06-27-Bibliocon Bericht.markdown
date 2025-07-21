@@ -2,8 +2,7 @@
 layout: post
 category: news
 title: Ein weiterer Bremer Stadtmusikant? Der PANTER zu Besuch auf dem Bibliothekskongress 2025 in Bremen!
-description: |
-    Projektvorstellung auf dem Bibliothekskongress
+description: Projektvorstellung auf dem Bibliothekskongress
 ---
 
 Die Bibliocon 2025 bot mit dem PANTER Preismonitor spannende Einblicke in die Zukunft des Preisvergleichs wissenschaftlicher Zeitschriften. Der Preismonitor PANTER wurde in diesem Jahr in zwei Beiträgen auf der Konferenz der interessierten Fachöffentlichkeit präsentiert.
