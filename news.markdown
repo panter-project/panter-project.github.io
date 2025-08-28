@@ -1,6 +1,6 @@
 ---
 layout: news
 title: Aktuelles
-permalink: /blog/news/
+permalink: news/
 ---
 
