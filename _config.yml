@@ -2,11 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://panter-project.github.io
+url: "https://projekt-panter.de"
+baseurl: "/info"
 title: Publishing Analytics Tracker
 email: kammer@htw-dresden.de
 author: Dietrich Kammer
-description: > # "Write an awesome description for your new site here. 
+description: > # "Write an awesome description for your new site here.
   Vergleichsportal für Finanzierungsmodelle, Preise und Preisentwicklungen auf dem Open-Access-Zeitschriftenmarkt
 copyright: 'Copyright &copy; 2023. All Rights Reserved.'
 credits: 'A joint project.'
@@ -20,7 +21,7 @@ mastodon: https://openbiblio.social/deck/@PANTER
 markdown: kramdown
 permalink: pretty
 
-kramdown:  
+kramdown:
   parse_block_html: true
 
 collections:
@@ -41,4 +42,4 @@ collections:
 #  - title: github
 #    url: https://github.com/IronSummitMedia/startbootstrap
 #  - title: linkedin
-#    url: 
+#    url:
