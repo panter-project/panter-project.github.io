@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: "https://projekt-panter.de"
-baseurl: "/info"
+baseurl: "/blog"
 title: Publishing Analytics Tracker
 email: kammer@htw-dresden.de
 author: Dietrich Kammer
